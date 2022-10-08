@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @StartCI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+<img src="https://raw.githubusercontent.com/StartCI/StartCI/main/logo%20ci.png" />
+</p>
 
-<!---
-StartCI/StartCI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to StartCI!
+StartCI is a set of projects to improve your quality of life while you develop with CodeIgniter4
